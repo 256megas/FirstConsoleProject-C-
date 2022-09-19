@@ -1,1 +1,2 @@
-"# FirstConsoleProject-C-" 
+"# FirstConsoleProject-CSharp"
+https://brackeys.com/ Tutorial
